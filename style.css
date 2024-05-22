@@ -1,0 +1,65 @@
+html {
+    background: url(./images/fantome.jpg) center/cover;
+    min-height: 100vh;
+}
+
+h1 {
+    color: rgb(255, 31, 31);
+    font-size: 40px;
+    font-family: "Dancing Script", cursive;
+    text-transform: uppercase;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 100px;
+    margin-top: 40px;
+}
+
+.présent {    
+    position: absolute;
+    color: rgb(255, 31, 31);
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    width: 100%;
+
+}
+
+.enterbuton {
+    position: relative;
+    bottom: 10px;
+    background-color: rgb(32, 5, 5);
+    color: rgb(255, 31, 31);
+    font-size: 20px;
+    border-color: rgb(230, 35, 21);
+    text-transform: uppercase;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 300px;
+    
+}
+
+.enterbuton:hover {
+    color: rgb(3, 0, 1);
+    border-radius: 2,6;
+    border-color: rgb(14, 1, 1);
+    background-color: rgb(255, 31, 31);
+}
+
+footer {
+    font-family: "Dancing Script", cursive;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: left;
+    color: rgb(255, 31, 31);
+    font-size: 10px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+
